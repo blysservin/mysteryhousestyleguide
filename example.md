@@ -73,29 +73,12 @@
 >`---`  
 >`---`  
 >`---`**  
->  
+>
 >**`####`**  
->  
+>
 >**`**[&nbsp;MYSTERY HOUSE&nbsp;]**`**  
->  
+>
 >**`####`**  
->  
->**`---`  
->`---`  
->`---`  
->`---`  
->`---`  
->`---`  
->`---`  
->`---`  
->`---`  
->`---`**  
->
->**`####`**
->
->**`**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/introduction.md) [[&nbsp;WALKTHROUGH&nbsp;]](#walkthrough) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](/alternateendings.md)**`**
->
->**`####`**
 >
 >**`---`  
 >`---`  
@@ -108,11 +91,11 @@
 >`---`  
 >`---`**  
 >
->**`####`**
+>**`####`**  
 >
->**`**<a name="walkthrough">[&nbsp;WALKTHROUGH&nbsp;]</a>**`**
+>**`**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/introduction.md) [[&nbsp;WALKTHROUGH&nbsp;]](#walkthrough) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](/alternateendings.md)**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`---`  
 >`---`  
@@ -125,11 +108,28 @@
 >`---`  
 >`---`**  
 >
->**`####`**
+>**`####`**  
+>
+>**`**<a name="walkthrough">[&nbsp;WALKTHROUGH&nbsp;]</a>**`**  
+>
+>**`####`**  
+>
+>**`---`  
+>`---`  
+>`---`  
+>`---`  
+>`---`  
+>`---`  
+>`---`  
+>`---`  
+>`---`  
+>`---`**  
+>
+>**`####`**  
 >
 >**`***TYPE IN THE UNDERLINED COMMAND AND PRESS "RETURN" OR "ENTER" ON KEYBOARD.***`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`---`  
 >`---`  
@@ -142,7 +142,7 @@
 >`---`  
 >`---`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;FRONT YARD&nbsp;]**`**  
 >**`**YOU ARE IN THE FRONT YARD OF A LARGE ABANDONED VICTORIAN HOUSE. STONE STEPS LEAD UP TO A WIDE PORCH.`  
@@ -154,14 +154,14 @@
 >`THERE IS A FOREST.`  
 >`--------------- ENTER COMMAND? <ins>WALK STEPS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;PORCH&nbsp;]**`**  
 >**`**YOU ARE ON THE PORCH. STONE STEPS LEAD DOWN TO THE FRONT YARD.`  
 >`--------------- ENTER COMMAND? <ins>OPEN DOOR</ins>`  
 >`--------------- ENTER COMMAND? <ins>ENTER DOOR</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ENTRY HALL&nbsp;]**`**  
 >**`**THE DOOR HAS BEEN CLOSED AND LOCKED. YOU ARE IN AN ENTRY HALL. DOORWAYS GO EAST, WEST, AND SOUTH. A STAIRWAY GOES UP.`  
@@ -175,7 +175,7 @@
 >**`**--------------- ENTER COMMAND? <ins>DROP NOTE</ins>`  
 >`--------------- ENTER COMMAND? <ins>WEST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;KITCHEN&nbsp;]**`**  
 >**`**YOU ARE IN THE KITCHEN. THERE IS A REFRIGERATOR, A STOVE, AND A CABINET.`  
@@ -203,25 +203,25 @@
 >`--------------- ENTER COMMAND? <ins>OPEN DOOR</ins>`  
 >`--------------- ENTER COMMAND? <ins>WEST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;FOREST&nbsp;]**`**  
 >**`**YOU ARE IN A FOREST.`  
 >`--------------- ENTER COMMAND? <ins>UP</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;KITCHEN&nbsp;]**`**  
 >**`**YOU ARE IN THE KITCHEN. THERE IS A REFRIGERATOR, A STOVE, AND A CABINET.`  
 >`--------------- ENTER COMMAND? <ins>EAST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ENTRY HALL&nbsp;]**`**  
 >**`**YOU ARE IN AN ENTRY HALL. DOORWAYS GO EAST, WEST, AND SOUTH. A STAIRWAY GOES UP.`  
 >`--------------- ENTER COMMAND? <ins>EAST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;LIBRARY&nbsp;]**`**  
 >**`**YOU ARE IN THE OLD, DUSTY LIBRARY.`  
@@ -236,7 +236,7 @@
 >`--------------- ENTER COMMAND? <ins>OPEN DOOR</ins>`  
 >`--------------- ENTER COMMAND? <ins>EAST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;SIDE YARD&nbsp;]**`**  
 >**`**YOU ARE IN THE SIDE YARD. YOU CAN FOLLOW THE FENCE TO THE SOUTH.`  
@@ -245,7 +245,7 @@
 >`--------------- ENTER COMMAND? <ins>SOUTH</ins>`  
 >`IT IS DARK, YOU CAN'T SEE.**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;BACKYARD&nbsp;]**`**  
 >**`**YOU ARE IN THE FENCED BACKYARD. THE FENCE FOLLOWS THE SIDE OF THE HOUSE TO THE NORTH. THERE IS A DEAD BODY HERE.`  
@@ -256,7 +256,7 @@
 >`--------------- ENTER COMMAND? <ins>ENTER DOOR</ins>`  
 >`THE MATCH WENT OUT.**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;DINING ROOM&nbsp;]**`**  
 >**`**YOU ARE IN THE DINING ROOM.`  
@@ -278,13 +278,13 @@
 >`--------------- ENTER COMMAND? <ins>LOOK ROOM</ins>`  
 >`--------------- ENTER COMMAND? <ins>NORTH</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ENTRY HALL&nbsp;]**`**  
 >**`**YOU ARE IN AN ENTRY HALL. DOORWAYS GO EAST, WEST, AND SOUTH. A STAIRWAY GOES UP.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;HALLWAY&nbsp;]**`**  
 >**`**YOU ARE AT THE JUNCTION OF AN EAST / WEST HALLWAY AND A NORTH / SOUTH HALLWAY.`  
@@ -292,7 +292,7 @@
 >`THERE IS A DOORWAY HERE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER DOORWAY</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;LARGE BEDROOM&nbsp;]**`**  
 >**`**A DAGGER IS THROWN AT YOU FROM OUTSIDE THE ROOM. IT MISSES! YOU ARE IN A LARGE BEDROOM.`  
@@ -301,7 +301,7 @@
 >`I FEEL MUCH MORE RESTED NOW.`  
 >`--------------- ENTER COMMAND? <ins>EXIT DOORWAY</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;HALLWAY&nbsp;]**`  
 >`**THERE IS A DOORWAY HERE.`  
@@ -309,7 +309,7 @@
 >`THERE IS A DOORWAY HERE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER DOORWAY</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;SMALL BEDROOM&nbsp;]**`  
 >`**YOU ARE IN A SMALL BEDROOM. THERE IS A DEAD BODY HERE.`  
@@ -317,7 +317,7 @@
 >`IT IS SALLY, THE SEAMSTRESS. SHE HAS A LARGE LUMP ON HER HEAD. THERE IS A BLOND HAIR ON HER DRESS.`  
 >`--------------- ENTER COMMAND? <ins>EXIT DOORWAY</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;HALLWAY&nbsp;]**`**  
 >**`**THERE IS A DOORWAY HERE.`  
@@ -329,7 +329,7 @@
 >`THERE IS A DOORWAY HERE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER DOORWAY</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;NURSERY&nbsp;]**`**  
 >**`**YOU ARE IN AN OLD NURSERY. THERE IS A DEAD BODY HERE.`  
@@ -337,7 +337,7 @@
 >`IT IS DR. GREEN. IT APPEARS HE HAS BEEN STABBED.`  
 >`--------------- ENTER COMMAND? <ins>EXIT DOORWAY</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;HALLWAY&nbsp;]**`**  
 >**`**THERE IS A DOORWAY HERE.`  
@@ -345,7 +345,7 @@
 >`THERE IS A DOORWAY HERE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER DOORWAY</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;BOY'S BEDROOM&nbsp;]**`**  
 >**`**YOU ARE IN A BOY'S BEDROOM.`  
@@ -357,7 +357,7 @@
 >**`**--------------- ENTER COMMAND? <ins>DROP NOTE</ins>`  
 >`--------------- ENTER COMMAND? <ins>EXIT DOORWAY</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;HALLWAY&nbsp;]**`**  
 >**`**THERE IS A DOORWAY HERE.`  
@@ -369,7 +369,7 @@
 >`YOU ARE AT A STAIRWAY.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ATTIC&nbsp;]**`**  
 >**`**YOU ARE IN THE ATTIC.`  
@@ -383,7 +383,7 @@
 >`IT DOES NOT REMOVE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER DOOR</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;STORAGE ROOM&nbsp;]**`**  
 >**`**YOU ARE IN A STORAGE ROOM.`  
@@ -391,13 +391,13 @@
 >`IT IS LOCKED.`  
 >`--------------- ENTER COMMAND? <ins>EXIT DOOR</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ATTIC&nbsp;]**`**  
 >**`**YOU ARE IN THE ATTIC.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;HALLWAY&nbsp;]**`**  
 >**`**YOU ARE AT A STAIRWAY.`  
@@ -405,7 +405,7 @@
 >`THERE IS A DOORWAY HERE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER DOORWAY</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;STUDY&nbsp;]**`**  
 >**`**YOU ARE IN THE STUDY.`  
@@ -413,7 +413,7 @@
 >`WHICH DIRECTION?`  
 >`--------------- ENTER COMMAND? <ins>EAST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;BATHROOM&nbsp;]**`**  
 >**`**YOU ARE IN THE BATHROOM. THERE IS A DEAD BODY HERE.`  
@@ -427,7 +427,7 @@
 >`--------------- ENTER COMMAND? <ins>TAKE TOWEL</ins>`  
 >`--------------- ENTER COMMAND? <ins>EXIT DOOR</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;STUDY&nbsp;]**`**  
 >**`**YOU ARE IN THE STUDY.`  
@@ -443,7 +443,7 @@
 >`PART OF THE WALL OPENS.`  
 >`--------------- ENTER COMMAND? <ins>ENTER WALL</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;CRAWLSPACE&nbsp;]**`**  
 >**`**THE WALL CLOSES BEHIND YOU WITH A BANG. YOU ARE IN A MUSTY CRAWLSPACE.`**  
@@ -451,7 +451,7 @@
 >**`YOU ARE ON A STAIRWAY.`**  
 >**`--------------- ENTER COMMAND? <ins>DOWN</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;BASEMENT&nbsp;]**`**  
 >**`**YOU ARE IN A MUSTY BASEMENT. ALGAE COVERS THE WALLS. THERE IS A DEAD BODY HERE.`  
@@ -462,13 +462,13 @@
 >`--------------- ENTER COMMAND? <ins>TAKE KEY</ins>`  
 >`--------------- ENTER COMMAND? <ins>NORTH</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;PASSAGEWAY&nbsp;]**`**  
 >**`**YOU ARE AT THE NORTH END OF A NARROW NORTH / SOUTH PASSAGEWAY.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;PANTRY&nbsp;]**`**  
 >**`**YOU ARE IN A SMALL PANTRY.`  
@@ -476,19 +476,19 @@
 >`YOU GO IN THE HOLE BUT CANNOT CONTINUE AND HAVE TO RETURN.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;PASSAGEWAY&nbsp;]**`**  
 >**`**YOU ARE AT THE NORTH END OF A NARROW NORTH / SOUTH PASSAGEWAY.`  
 >`--------------- ENTER COMMAND? <ins>SOUTH</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;BASEMENT&nbsp;]**`**  
 >**`**YOU ARE IN A MUSTY BASEMENT. ALGAE COVERS THE WALLS. THERE IS A DEAD BODY HERE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER HOLE</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;TUNNEL&nbsp;]**`**  
 >**`**YOU ARE AT THE SOUTH END OF A NORTH / SOUTH TUNNEL.`  
@@ -496,7 +496,7 @@
 >`IT IS VERY LONG.`  
 >`--------------- ENTER COMMAND? <ins>NORTH</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;PINE TREE&nbsp;]**`**  
 >**`**THERE IS A VERY TALL PINE TREE IN FRONT OF YOU.`  
@@ -510,7 +510,7 @@
 >`THERE IS A VERY TALL PINE TREE IN FRONT OF YOU.`  
 >`--------------- ENTER COMMAND? <ins>DOWN</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;FOREST&nbsp;]**`**  
 >**`**YOU ARE IN A FOREST.`  
@@ -524,7 +524,7 @@
 >`YOU ARE IN A FOREST.`  
 >`--------------- ENTER COMMAND? <ins>UP</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;KITCHEN&nbsp;]**`**  
 >**`**YOU ARE IN THE KITCHEN. THERE IS A REFRIGERATOR, A STOVE, AND A CABINET.`  
@@ -533,13 +533,13 @@
 >`--------------- ENTER COMMAND? <ins>DRINK WATER</ins>`  
 >`--------------- ENTER COMMAND? <ins>EAST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ENTRY HALL&nbsp;]**`**  
 >**`**YOU ARE IN AN ENTRY HALL. DOORWAYS GO EAST, WEST, AND SOUTH. A STAIRWAY GOES UP.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;HALLWAY&nbsp;]**`**  
 >**`**YOU ARE AT THE JUNCTION OF AN EAST / WEST HALLWAY AND A NORTH / SOUTH HALLWAY.`  
@@ -547,13 +547,13 @@
 >`YOU ARE AT A STAIRWAY.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ATTIC&nbsp;]**`**  
 >**`**YOU ARE IN THE ATTIC.`  
 >`--------------- ENTER COMMAND? <ins>ENTER DOOR</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;STORAGE ROOM&nbsp;]**`**  
 >**`**YOU ARE IN A STORAGE ROOM.`  
@@ -566,14 +566,14 @@
 >`--------------- ENTER COMMAND? <ins>LOOK ROOM</ins>`  
 >`--------------- ENTER COMMAND? <ins>EXIT DOOR</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ATTIC&nbsp;]**`**  
 >**`**YOU ARE IN THE ATTIC.`  
 >`--------------- ENTER COMMAND? <ins>OPEN TRAPDOOR</ins>`  
 >`--------------- ENTER COMMAND? <ins>ENTER TRAPDOOR</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;TOWER&nbsp;]**`**  
 >**`**YOU ARE IN THE TOWER.`  
@@ -594,13 +594,13 @@
 >**`**--------------- ENTER COMMAND? <ins>DROP NOTE</ins>`**  
 >**`--------------- ENTER COMMAND? <ins>EXIT TRAPDOOR</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ATTIC&nbsp;]**`**  
 >**`**YOU ARE IN THE ATTIC.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;HALLWAY&nbsp;]**`**  
 >**`**YOU ARE AT A STAIRWAY.`  
@@ -608,13 +608,13 @@
 >`YOU ARE AT THE JUNCTION OF AN EAST / WEST HALLWAY AND A NORTH / SOUTH HALLWAY.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ENTRY HALL&nbsp;]**`**  
 >**`**YOU ARE IN AN ENTRY HALL. DOORWAYS GO EAST, WEST, AND SOUTH. A STAIRWAY GOES UP.`  
 >`--------------- ENTER COMMAND? <ins>WEST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;KITCHEN&nbsp;]**`**  
 >**`**YOU ARE IN THE KITCHEN. THERE IS A REFRIGERATOR, A STOVE, AND A CABINET.`  
@@ -624,7 +624,7 @@
 >`THE BRICKS BREAK APART LEAVING A HUGE HOLE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER HOLE</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;PANTRY&nbsp;]**`**  
 >**`**YOU ARE IN A SMALL PANTRY.`  
@@ -632,13 +632,13 @@
 >`IT DOES NOT REMOVE.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;PASSAGEWAY&nbsp;]**`**  
 >**`**YOU ARE AT THE NORTH END OF A NARROW NORTH / SOUTH PASSAGEWAY.`  
 >`--------------- ENTER COMMAND? <ins>SOUTH</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;BASEMENT&nbsp;]**`**  
 >**`**YOU ARE IN A MUSTY BASEMENT. ALGAE COVERS THE WALLS. THERE IS A DEAD BODY HERE.`  
@@ -649,50 +649,50 @@
 >`--------------- ENTER COMMAND? <ins>TAKE JEWELS</ins>`  
 >`--------------- ENTER COMMAND? <ins>NORTH</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;PASSAGEWAY&nbsp;]**`**  
 >**`**YOU ARE AT THE NORTH END OF A NARROW NORTH / SOUTH PASSAGEWAY.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;PANTRY&nbsp;]**`**  
 >**`**YOU ARE IN A SMALL PANTRY.`  
 >`--------------- ENTER COMMAND? <ins>EXIT HOLE</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;KITCHEN&nbsp;]**`**  
 >**`**YOU ARE IN THE KITCHEN. THERE IS A REFRIGERATOR, A STOVE, AND A CABINET.`  
 >`--------------- ENTER COMMAND? <ins>EAST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ENTRY HALL&nbsp;]**`**  
 >**`**YOU ARE IN AN ENTRY HALL. DOORWAYS GO EAST, WEST, AND SOUTH. A STAIRWAY GOES UP.`  
 >`--------------- ENTER COMMAND? <ins>EAST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;LIBRARY&nbsp;]**`**  
 >**`**YOU ARE IN THE OLD, DUSTY LIBRARY.`  
 >`--------------- ENTER COMMAND? <ins>EAST</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;SIDE YARD&nbsp;]**`**  
 >**`**YOU ARE IN THE SIDE YARD. YOU CAN FOLLOW THE FENCE TO THE SOUTH.`  
 >`--------------- ENTER COMMAND? <ins>SOUTH</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;BACKYARD&nbsp;]**`**  
 >**`**YOU ARE IN THE FENCED BACKYARD. THE FENCE FOLLOWS THE SIDE OF THE HOUSE TO THE NORTH. THERE IS A DEAD BODY HERE.`  
 >`--------------- ENTER COMMAND? <ins>OPEN GATE</ins>`  
 >`--------------- ENTER COMMAND? <ins>ENTER GATE</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;CEMETERY&nbsp;]**`**  
 >**`**YOU ARE IN A SMALL FENCED CEMETERY. THERE ARE SIX NEWLY DUG GRAVES.`  
@@ -709,19 +709,19 @@
 >`*(SEE STEPS FOR <a name="walkthroughalternateending5">[[&nbsp;ALTERNATE ENDING 5&nbsp;]](/alternateendings.md#alternateendingsalternateending5)</a>) OR (SEE STEPS FOR <a name="walkthroughalternateending6">[[&nbsp;ALTERNATE ENDING 6&nbsp;]](/alternateendings.md#alternateendingsalternateending6)</a>)*`  
 >`--------------- ENTER COMMAND? <ins>EXIT GATE</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;BACKYARD&nbsp;]**`**  
 >**`**YOU ARE IN THE FENCED BACKYARD. THE FENCE FOLLOWS THE SIDE OF THE HOUSE TO THE NORTH. THERE IS A DEAD BODY HERE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER DOOR</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;DINING ROOM&nbsp;]**`**  
 >**`**YOU ARE IN THE DINING ROOM.`  
 >`--------------- ENTER COMMAND? <ins>NORTH</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;ENTRY HALL&nbsp;]**`**  
 >**`**YOU ARE IN AN ENTRY HALL. DOORWAYS GO EAST, WEST, AND SOUTH. A STAIRWAY GOES UP.`  
@@ -731,7 +731,7 @@
 >`WHAT DIRECTION?`  
 >`--------------- ENTER COMMAND? <ins>NORTH</ins>**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`**[&nbsp;PORCH&nbsp;]**`**  
 >**`**YOU ARE ON THE PORCH. STONE STEPS LEAD DOWN TO THE FRONT YARD.`  
@@ -742,7 +742,7 @@
 >`--------------- ENTER COMMAND? <ins>NO</ins>`  
 >`THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE.**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`---`  
 >`---`  
@@ -755,11 +755,11 @@
 >`---`  
 >`---`**  
 >
->**`####`**
+>**`####`**  
 >
->**`**[[&nbsp;PREVIOUS&nbsp;]](/instructions.md) [[&nbsp;NEXT&nbsp;]](/alternateendings.md)**`**
+>**`**[[&nbsp;PREVIOUS&nbsp;]](/instructions.md) [[&nbsp;NEXT&nbsp;]](/alternateendings.md)**`**  
 >
->**`####`**
+>**`####`**  
 >
 >**`---`  
 >`---`  
