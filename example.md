@@ -1,67 +1,67 @@
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
   
-####
+####  
 
-**[&nbsp;MYSTERY HOUSE STYLE GUIDE&nbsp;]**
+**[&nbsp;MYSTERY HOUSE STYLE GUIDE&nbsp;]**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
-**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;STYLE GUIDE&nbsp;]](/styleguide.md) [[&nbsp;EXAMPLE&nbsp;]](#example)**
+**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;STYLE GUIDE&nbsp;]](/styleguide.md) [[&nbsp;EXAMPLE&nbsp;]](#example)**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
-**<a name="example">[&nbsp;EXAMPLE&nbsp;]</a>**
+**<a name="example">[&nbsp;EXAMPLE&nbsp;]</a>**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
 >**`---`  
 >`---`  
@@ -772,34 +772,34 @@
 >`---`  
 >`---`**  
 
-**[&nbsp;FROM *MYSTERY HOUSE* [[&nbsp;WALKTHROUGH&nbsp;]](https://github.com/blysservin/mysteryhouse)&nbsp;]**
+**[&nbsp;FROM *MYSTERY HOUSE* [[&nbsp;WALKTHROUGH&nbsp;]](https://github.com/blysservin/mysteryhouse)&nbsp;]**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
-**[[&nbsp;PREVIOUS&nbsp;]](/styleguide.md) [[&nbsp;NEXT&nbsp;]](/readme.md)**
+**[[&nbsp;PREVIOUS&nbsp;]](/styleguide.md) [[&nbsp;NEXT&nbsp;]](/readme.md)**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
