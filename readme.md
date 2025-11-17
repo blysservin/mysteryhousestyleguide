@@ -1,67 +1,67 @@
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
   
-####
+####  
 
-**[&nbsp;MYSTERY HOUSE STYLE GUIDE&nbsp;]**
+**[&nbsp;MYSTERY HOUSE STYLE GUIDE&nbsp;]**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
-**[[&nbsp;README&nbsp;]](#readme) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;STYLE GUIDE&nbsp;]](/styleguide.md) [[&nbsp;EXAMPLE&nbsp;]](/example.md)**
+**[[&nbsp;README&nbsp;]](#readme) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;STYLE GUIDE&nbsp;]](/styleguide.md) [[&nbsp;EXAMPLE&nbsp;]](/example.md)**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
-**<a name="readme">[&nbsp;README&nbsp;]</a>**
+**<a name="readme">[&nbsp;README&nbsp;]</a>**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
 **THIS [[&nbsp;STYLE GUIDE&nbsp;]](/styleguide.md) IS A REFERENCE FOR THE HI-RES ADVENTURE # 1 -- *MYSTERY HOUSE* -- [[&nbsp;WALKTHROUGH&nbsp;]](https://github.com/blysservin/mysteryhouse) AND DOCUMENTS ALL FORMATTING, SPELLING, GRAMMAR, AND PUNCTUATION USAGES IN DETAIL.**  
 
@@ -69,32 +69,32 @@
 
 **THANK YOU TO ROBERTA WILLIAMS, KEN WILLIAMS, ON-LINE SYSTEMS / SIERRA ON-LINE, THE PUBLIC DOMAIN EXCHANGE, THE INTERNET ARCHIVE, AND THE MAME EMULATOR.**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
-**[[&nbsp;PREVIOUS&nbsp;]](/example.md) [[&nbsp;NEXT&nbsp;]](/introduction.md)**
+**[[&nbsp;PREVIOUS&nbsp;]](/example.md) [[&nbsp;NEXT&nbsp;]](/introduction.md)**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
