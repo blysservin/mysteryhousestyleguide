@@ -1,67 +1,67 @@
 
----
----
----
----
----
----
----
----
----
----
-  
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-**[&nbsp;MYSTERY HOUSE STYLE GUIDE&nbsp;]**
+####  
 
-####
+**[&nbsp;MYSTERY HOUSE STYLE GUIDE&nbsp;]**  
 
----
----
----
----
----
----
----
----
----
----
+####  
 
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](#introduction) [[&nbsp;STYLE GUIDE&nbsp;]](/styleguide.md) [[&nbsp;EXAMPLE&nbsp;]](/example.md)**
+####  
 
-####
+**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](#introduction) [[&nbsp;STYLE GUIDE&nbsp;]](/styleguide.md) [[&nbsp;EXAMPLE&nbsp;]](/example.md)**  
 
----
----
----
----
----
----
----
----
----
----
+####  
 
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-**<a name="introduction">[&nbsp;INTRODUCTION&nbsp;]</a>**
+####  
 
-####
+**<a name="introduction">[&nbsp;INTRODUCTION&nbsp;]</a>**  
 
----
----
----
----
----
----
----
----
----
----
+####  
 
-####
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+
+####  
 
 >**WHAT IS AN ADVENTURE GAME? ACCORDING TO THE DICTIONARY, AN ADVENTURE IS A HAZARDOUS OR DARING ENTERPRISE, AN EXCITING EXPERIENCE; TO RISK, HAZARD, TO VENTURE ON. ONE WHO GOES ON AN ADVENTURE IS A VENTURER. A SEEKER OF FORTUNE IN DARING ENTERPRISES, A SPECULATOR. IN ESSENCE, AN ADVENTURE GAME IS A FANTASY WORLD WHERE YOU ARE TRANSPORTED, VIA YOUR OWN COMPUTER. YOU ARE THE KEY CHARACTER OF THE FANTASY AS YOU TRAVEL THROUGH A LAND THE LIKES OF WHICH YOU WILL FIND IN BOOKS THAT TAKE YOU, THROUGH YOUR IMAGINATION, TO THE WORLD IT IS CREATING.**  
 >
@@ -69,32 +69,32 @@
 
 **[&nbsp;FROM *MYSTERY HOUSE* WHITE FOLDER RELEASE&nbsp;]**
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
 
-####
+####  
 
-**[[&nbsp;PREVIOUS&nbsp;]](/readme.md) [[&nbsp;NEXT&nbsp;]](/styleguide.md)**
+**[[&nbsp;PREVIOUS&nbsp;]](/readme.md) [[&nbsp;NEXT&nbsp;]](/styleguide.md)**  
 
-####
+####  
 
----
----
----
----
----
----
----
----
----
----
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
+---  
