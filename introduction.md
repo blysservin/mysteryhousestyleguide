@@ -12,7 +12,7 @@
 
 ####  
 
-**[&nbsp;MYSTERY HOUSE STYLE GUIDE&nbsp;]**  
+**[&nbsp;*MYSTERY HOUSE* STYLE GUIDE&nbsp;]**  
 
 ####  
 
