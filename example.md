@@ -772,7 +772,7 @@
 >`---`  
 >`---`**  
 
-**[&nbsp;FROM *MYSTERY HOUSE* [[&nbsp;WALKTHROUGH&nbsp;]](https://github.com/blysservin/mysteryhouse)&nbsp;]**  
+**[&nbsp;FROM *MYSTERY HOUSE* [[&nbsp;WALKTHROUGH&nbsp;]](https://github.com/blysservin/mysteryhouse/blob/main/walkthrough.md)&nbsp;]**  
 
 ####  
 
