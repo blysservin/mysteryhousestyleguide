@@ -93,7 +93,7 @@
 >
 >**`####`**  
 >
->**`**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/introduction.md) [[&nbsp;WALKTHROUGH&nbsp;]](#walkthrough) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](/alternateendings.md)**`**  
+>**`**[[&nbsp;README&nbsp;]](/readme.md) [[&nbsp;INTRODUCTION&nbsp;]](/introduction.md) [[&nbsp;INSTRUCTIONS&nbsp;]](/instructions.md) [[&nbsp;WALKTHROUGH&nbsp;]](#walkthrough) [[&nbsp;ALTERNATE ENDINGS&nbsp;]](/alternateendings.md) [[&nbsp;INVENTORY&nbsp;]](/alternateendings.md)**`**  
 >
 >**`####`**  
 >
