@@ -170,7 +170,7 @@
 >`--------------- ENTER COMMAND? <ins>TAKE NOTE</ins>`  
 >`--------------- ENTER COMMAND? <ins>READ NOTE</ins>**`**  
 >
->**`>**VALUABLE JEWELS ARE HIDDEN IN THIS HOUSE. FINDERS-KEEPERS.**`**  
+>**`>**VALUABLE JEWELS ARE HIDDEN IN THIS HOUSE. FINDERS KEEPERS.**`**  
 >
 >**`**--------------- ENTER COMMAND? <ins>DROP NOTE</ins>`  
 >`--------------- ENTER COMMAND? <ins>WEST</ins>**`**  
@@ -471,7 +471,9 @@
 >**`####`**  
 >
 >**`**[&nbsp;PANTRY&nbsp;]**`**  
->**`**YOU ARE IN A SMALL PANTRY.`  
+>**`**YOU ARE IN A SMALL PANTRY.`
+>>`--------------- ENTER COMMAND? <ins>TAKE JAR</ins>`  
+>`IT DOES NOT REMOVE.`  
 >`--------------- ENTER COMMAND? <ins>ENTER HOLE</ins>`  
 >`YOU GO IN THE HOLE BUT CANNOT CONTINUE AND HAVE TO RETURN.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
@@ -628,8 +630,6 @@
 >
 >**`**[&nbsp;PANTRY&nbsp;]**`**  
 >**`**YOU ARE IN A SMALL PANTRY.`  
->`--------------- ENTER COMMAND? <ins>TAKE JAR</ins>`  
->`IT DOES NOT REMOVE.`  
 >`--------------- ENTER COMMAND? <ins>WALK STAIRS</ins>**`**  
 >
 >**`####`**  
